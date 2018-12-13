@@ -1,3 +1,1 @@
-.oxmod-section-title-circle{
-/* CSS */
- }
+.oxmod-section-title-circle{text-align:center;padding:10px 10px 5px;font-size:14px;line-height:20px;color:#333}.oxmod-section-title-circle .circle{width:10px;height:10px;line-height:6px;overflow:hidden;display:inline-block;vertical-align:middle;opacity:.5;margin:0 10px;border-radius:50%;border-width:1px;border-style:solid}.oxmod-section-title-circle .circle:before{border-color:inherit;border-radius:50%;border-width:1px;border-style:solid;content:'';width:6px;height:6px;display:inline-block;opacity:.5}
